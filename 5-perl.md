@@ -1,12 +1,13 @@
 ---
 permalink: /challenges/c
+layout: challenge
 ---
 
 # INTERMISSION
 
 You probably got the gist of this now, haven't you?
 
-Now, for the second part:
+Now, the second part is right across the corner. You just need to:
 
 1. Grab all the answers from all previous challenges
 2. Join them together, separated by a comma, **all downcase, no spaces**
