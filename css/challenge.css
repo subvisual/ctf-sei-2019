@@ -1,3 +1,32 @@
+* {
+  font-family: 'PT Mono', 'Fira Mono', 'Hack', 'Source Code Pro', monospace;
+  text-color: #222;
+}
+
+body {
+  background-color: #20a4f3a6;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+a {
+  background-color: white;
+  color: #000;
+  font-weight: bold;
+  padding: 2px;
+}
+
+a:active,
+a:visited {
+  color: #000;
+}
+
+.centered {
+  text-align: center;
+}
+
 .challenge {
   text-align: center;
 }
