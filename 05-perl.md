@@ -1,5 +1,5 @@
 ---
-permalink: /challenges/c
+permalink: /challenges/perl
 layout: challenge
 ---
 
@@ -9,7 +9,7 @@ You probably got the gist of this now, haven't you?
 
 Now, this level is a bit different. To move forward, you just need to:
 
-1. Grab all the answers from all previous challenges;
+1. Grab all the answers from all previous challenges (all 4 of them);
 2. Join them together, separated by a comma, **all downcase, no spaces**;
 3. Find the `keccak256` hash of that entire string (you're smart, you'll figure it
    out);
